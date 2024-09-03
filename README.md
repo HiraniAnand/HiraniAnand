@@ -16,6 +16,7 @@ I enjoy working with both code and design, blending creativity with technical kn
 
 LinkedIn
 GitHub
+![GitHub](www.github.com/HiraniAnand)
 🏆 Competitions & Certifications
 
 Certificate in Business Development Executive from Webito Infotech IT Company
