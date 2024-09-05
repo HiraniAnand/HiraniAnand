@@ -4,12 +4,12 @@
 I'm a passionate BCA student at Atmanand Sarsvati Science College, currently sharpening my skills in graphics design and web development. With a creative flair and a knack for coding, I thrive on bringing ideas to life through stunning visuals and seamless user experiences. In addition to my design work, I'm diving into Flutter to expand my expertise in cross-platform mobile app development. I'm always eager to learn new technologies and take on exciting challenges.
 
 <h4>🛠 Skills </h4>
-**Programming Languages**: C, C++, Python, Dart, Java, PHP <i class="fas fa-user"></i>
-**Web Development**: HTML, CSS, JavaScript, jQuery, DBMS, NoSQL, PHP
-**Design**: Adobe Photoshop, Adobe Illustrator, Figma
-**Mobile App Development**: Flutter (in progress)
-**Tools & Platforms**: Visual Studio, WordPress, Shoppify
-**Databases**: MySQL, Firebase
+**Programming Languages**: C, C++, Python, Dart, Java, PHP <br />
+**Web Development**: HTML, CSS, JavaScript, jQuery, DBMS, NoSQL, PHP <br />
+**Design**: Adobe Photoshop, Adobe Illustrator, Figma <br />
+**Mobile App Development**: Flutter (in progress) <br />
+**Tools & Platforms**: Visual Studio, WordPress, Shoppify <br />
+**Databases**: MySQL, Firebase <br />
 I enjoy working with both code and design, blending creativity with technical know-how. From logos to web interfaces, I strive to create functional and visually appealing solutions.
 
 <h4>🌐 Connect With Me </h4>
