@@ -1,11 +1,13 @@
 <h1>👋 Hello, 
 I'm Anand D Hirani!
 </h1>
-<h4>🚀 About Me </h4>
 
+<h4>🚀 About Me 
+</h4> <br/>
 I'm a passionate BCA student at Atmanand Sarsvati Science College, currently sharpening my skills in graphics design and web development. With a creative flair and a knack for coding, I thrive on bringing ideas to life through stunning visuals and seamless user experiences. In addition to my design work, I'm diving into Flutter to expand my expertise in cross-platform mobile app development. I'm always eager to learn new technologies and take on exciting challenges.
 
-<h4>🛠 Skills </h4>
+<h4>🛠 Skills 
+</h4>
 Programming Languages: C, C++, Python, Dart, Java, PHP
 Web Development: HTML, CSS, JavaScript, jQuery, DBMS, NoSQL, PHP
 Design: Adobe Photoshop, Adobe Illustrator, Figma
@@ -14,7 +16,8 @@ Tools & Platforms: Visual Studio, WordPress, Shoppify
 Databases: MySQL, Firebase
 I enjoy working with both code and design, blending creativity with technical know-how. From logos to web interfaces, I strive to create functional and visually appealing solutions.
 
-<h4>🌐 Connect With Me</h4>
+<h4>🌐 Connect With Me
+</h4>
 <a href="https://www.linkedin.com/in/anand-hirani/" style="text-decoration: none;"> LinkedIn </a>
 [GitHub](www.github.com/HiraniAnand)
 
