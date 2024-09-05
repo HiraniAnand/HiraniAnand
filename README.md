@@ -1,7 +1,11 @@
 👋 Hello, 
 I'm Anand D Hirani!
 
-🚀 About Me I'm a passionate BCA student at Atmanand Sarsvati Science College, currently sharpening my skills in graphics design and web development. With a creative flair and a knack for coding, I thrive on bringing ideas to life through stunning visuals and seamless user experiences. In addition to my design work, I'm diving into Flutter to expand my expertise in cross-platform mobile app development. I'm always eager to learn new technologies and take on exciting challenges.
+🚀 About Me 
+
+_______________________________________________________________________________________________________________
+
+I'm a passionate BCA student at Atmanand Sarsvati Science College, currently sharpening my skills in graphics design and web development. With a creative flair and a knack for coding, I thrive on bringing ideas to life through stunning visuals and seamless user experiences. In addition to my design work, I'm diving into Flutter to expand my expertise in cross-platform mobile app development. I'm always eager to learn new technologies and take on exciting challenges.
 
 🛠 Skills
 Programming Languages: C, C++, Python, Dart, Java, PHP
