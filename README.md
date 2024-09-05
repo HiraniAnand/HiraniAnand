@@ -15,8 +15,7 @@ Databases: MySQL, Firebase
 I enjoy working with both code and design, blending creativity with technical know-how. From logos to web interfaces, I strive to create functional and visually appealing solutions.
 
 <h4>🌐 Connect With Me</h4>
-[LinkedIn](https://www.linkedin.com/in/anand-hirani/)
-
+<a href="https://www.linkedin.com/in/anand-hirani/" style="text-decoration: none;"> LinkedIn </a>
 [GitHub](www.github.com/HiraniAnand)
 
 🏆 Competitions & Certifications
