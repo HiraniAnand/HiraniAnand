@@ -31,5 +31,6 @@ Bachelor of Computer Applications (**BCA**): ASSC College
 Thank you for visiting my profile! Let's connect and build something amazing together.
 
 <div align-"center">
-  ![BDE Certificate](https://github.com/user-attachments/assets/ee7d1611-15bb-4f85-b529-74d433bc35d2)
+  <img src="https://github.com/user-attachments/assets/ee7d1611-15bb-4f85-b529-74d433bc35d2" alt="BDE Certificate" width="500"/>
+<!--   ![BDE Certificate](https://github.com/user-attachments/assets/ee7d1611-15bb-4f85-b529-74d433bc35d2) -->
 </div>
