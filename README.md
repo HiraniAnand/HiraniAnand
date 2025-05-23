@@ -16,6 +16,10 @@ I enjoy working with both code and design, blending creativity with technical kn
 <a href="https://www.linkedin.com/in/anand-hirani/" style="text-decoration: none;"> LinkedIn </a><br/>
 <a href="www.github.com/HiraniAnand"> GitHub </a>
 
+<h4>🎓 Education </h4>
+Bachelor of Computer Applications (**BCA**): ASSC College
+🌟 Why I'm Great I combine a strong foundation in programming with a passion for design, offering a unique blend of technical skills and creativity. Whether it's building a website or designing a logo, I'm dedicated to delivering high-quality work. My journey in learning Flutter is the next step in expanding my toolkit, enabling me to create even more versatile and impactful applications.
+
 <h4>🏆 Competitions & Certifications </h4>
 Certificate in Business Development Executive from Webito Infotech IT Company
 Running Course work in FLutter with Firebase
@@ -24,13 +28,8 @@ Participating in design and coding challenges to further hone my skills
 <h4>💼 Professional Experience </h4>
 Freelance Graphics Designer & Web Developer: I offer services in logo design, web design, packaging design, and more. I’ve worked on various projects, delivering creative solutions to meet client needs. Webito Infotech IT Company: Served as a Business Development Executive, where I collaborated on various projects and gained valuable industry experience.
 
-<h4>🎓 Education </h4>
-Bachelor of Computer Applications (**BCA**): ASSC College
-🌟 Why I'm Great I combine a strong foundation in programming with a passion for design, offering a unique blend of technical skills and creativity. Whether it's building a website or designing a logo, I'm dedicated to delivering high-quality work. My journey in learning Flutter is the next step in expanding my toolkit, enabling me to create even more versatile and impactful applications.
-
 Thank you for visiting my profile! Let's connect and build something amazing together.
 
-<div align-"center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/ee7d1611-15bb-4f85-b529-74d433bc35d2" alt="BDE Certificate" width="500"/>
-<!--   ![BDE Certificate](https://github.com/user-attachments/assets/ee7d1611-15bb-4f85-b529-74d433bc35d2) -->
 </div>
