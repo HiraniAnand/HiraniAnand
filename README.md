@@ -29,4 +29,7 @@ Bachelor of Computer Applications (**BCA**): ASSC College
 🌟 Why I'm Great I combine a strong foundation in programming with a passion for design, offering a unique blend of technical skills and creativity. Whether it's building a website or designing a logo, I'm dedicated to delivering high-quality work. My journey in learning Flutter is the next step in expanding my toolkit, enabling me to create even more versatile and impactful applications.
 
 Thank you for visiting my profile! Let's connect and build something amazing together.
-![BDE Certificate](https://github.com/user-attachments/assets/ee7d1611-15bb-4f85-b529-74d433bc35d2)
+
+<div align-"center">
+  ![BDE Certificate](https://github.com/user-attachments/assets/ee7d1611-15bb-4f85-b529-74d433bc35d2)
+</div>
