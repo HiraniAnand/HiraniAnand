@@ -1,35 +1,85 @@
-<h1>👋 Hello, I'm Anand D. Hirani!</h1>
+<h1 align="center">👋 Hi there, I’m Anand D Hirani!</h1>
 
-<h4>🚀 About Me </h4>
-I'm a passionate BCA student at Atmanand Sarsvati Science College, currently sharpening my skills in graphics design and web development. With a creative flair and a knack for coding, I thrive on bringing ideas to life through stunning visuals and seamless user experiences. In addition to my design work, I'm diving into Flutter to expand my expertise in cross-platform mobile app development. I'm always eager to learn new technologies and take on exciting challenges.
+🚀 About Me
 
-<h4>🛠 Skills </h4>
-Programming Languages: C, C++, Python, Dart, Java, PHP <br />
-Web Development: HTML, CSS, JavaScript, jQuery, DBMS, NoSQL, PHP <br />
-Design: Adobe Photoshop, Adobe Illustrator, Figma <br />
-Mobile App Development: Flutter (in progress) <br />
-Tools & Platforms: Visual Studio, WordPress, Shoppify <br />
-Databases: MySQL, Firebase <br />
-I enjoy working with both code and design, blending creativity with technical know-how. From logos to web interfaces, I strive to create functional and visually appealing solutions.
+I’m a passionate **BCA graduate** from **VNSGU**, with a strong interest in **Artificial Intelligence**, **Data Science**, and **Business Intelligence**. I recently completed a comprehensive course in **AI and Data Science**, where I gained practical skills in **Machine Learning**, **Data Analysis**, **Visualization**, and **Cloud technologies**. Along with my studies, I have worked on several **real-world projects** and **mini-projects** that helped me understand how to apply AI and Data techniques to solve real problems. Currently, I am focused on building more advanced projects, contributing to open-source, and continuously learning new skills to become a well-rounded **AI Engineer** and **Data Scientist**.
 
-<h4>🌐 Connect With Me </h4>
-<a href="https://www.linkedin.com/in/anand-hirani/" style="text-decoration: none;"> LinkedIn </a><br/>
-<a href="www.github.com/HiraniAnand"> GitHub </a>
+---
 
-<h4>🎓 Education </h4>
-Bachelor of Computer Applications (**BCA**): ASSC College
-🌟 Why I'm Great I combine a strong foundation in programming with a passion for design, offering a unique blend of technical skills and creativity. Whether it's building a website or designing a logo, I'm dedicated to delivering high-quality work. My journey in learning Flutter is the next step in expanding my toolkit, enabling me to create even more versatile and impactful applications.
+🌱 Currently Exploring
 
-<h4>🏆 Competitions & Certifications </h4>
-Certificate in Business Development Executive from Webito Infotech IT Company
-Running Course work in FLutter with Firebase
-Participating in design and coding challenges to further hone my skills
+- Building **web applications** using **Laravel** or **Django** frameworks with **AI-powered features**.
+- Improving my skills in **Python**, **SQL**, **Power BI**, **AWS Cloud**, **Machine Learning (ML)**, and **Deep Learning (DL)**.
+- Advancing my understanding of **Data Engineering** workflows.
+- Working on projects to apply **AI/ML models** in real-world applications.
 
-<h4>💼 Professional Experience </h4>
-Freelance Graphics Designer & Web Developer: I offer services in logo design, web design, packaging design, and more. I’ve worked on various projects, delivering creative solutions to meet client needs. Webito Infotech IT Company: Served as a Business Development Executive, where I collaborated on various projects and gained valuable industry experience.
+<!--
+---
+📈 My Projects
 
-Thank you for visiting my profile! Let's connect and build something amazing together.
+| Project Name                               | Domains & Technologies                      | Link                   |
+|--------------------------------------------|---------------------------------------------|------------------------|
+| Madhav E-Commerce Sales Dashboard          | Data Analysis, Power BI                     | [View Project]()       |
+| Airlines Passenger Satisfaction Dashboard  | Data Visualization, Power BI                | [View Project]()       |
+| Retail Store Sales Analysis                | Data Analytics, Power BI, SQL               | [View Project]()       |
+| AI-Powered Chatbot (Learning Project)      | AI Engineering, Python, NLP                 | [View Project]()       |
+| Predictive Sales Forecasting (Learning Project) | AI, Time Series, Python                | [View Project]()       |
+-->
+---
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ee7d1611-15bb-4f85-b529-74d433bc35d2" alt="BDE Certificate" width="500"/>
-</div>
+🏆 Achievements
+
+- 🏅 **BDE (Business Data Executive) Certificate**.
+- 🏅 Completed beginner courses in **Web Development**, **Digital Marketing**, **Python**, **AI & DS**.
+- 🎓 Built my first **Power BI Dashboards** for e-commerce and retail data.
+- ✍️ Regularly practicing **Python**, and **SQL** on small datasets.
+
+---
+
+🎓 Education
+
+- 🎓 **AI & Data Science Course** — (In Progress)  
+  Trans Globe Multimedia Education Campus
+  
+- 🎓 **Bachelor of Computer Applications (BCA)** — VNSGU (Veer Narmad South Gujarat University)  
+  Graduation Year: 2024 / 2025
+
+---
+
+🛠 Skills
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+</p>
+
+---
+
+📫 How to Reach Me
+
+- **LinkedIn**: [Anand-Hirani](https://www.linkedin.com/in/anand-hirani/)
+- **Email**: hiranianand43@gmail.com
+
+---
+
+⚡ Fun Fact
+
+> I’m on a journey from **zero to AI hero** 🚀 — every small project is a new adventure, and every bug is a new lesson!
+
+---
